@@ -1,0 +1,12 @@
+[submodule "Project1"]
+	path = Project1
+	url = git@github.com:pf-lin/NYCU_NP_Project1.git
+[submodule "Project2"]
+	path = Project2
+	url = git@github.com:pf-lin/NYCU_NP_Project2.git
+[submodule "Project3"]
+	path = Project3
+	url = git@github.com:pf-lin/NYCU_NP_Project3.git
+[submodule "Project4"]
+	path = Project4
+	url = git@github.com:pf-lin/NYCU_NP_Project4.git
